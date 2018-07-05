@@ -1,10 +1,14 @@
 {
   "name": "tlux",
   "version": "1.0.0",
-  "description": "LuaX builder",
+  "description": "Tlux, the LuaX builder",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tazkazz/tlux.git"
   },
   "keywords": [
     "lua",
@@ -13,6 +17,10 @@
   ],
   "author": "Tazkazz",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tazkazz/tlux/issues"
+  },
+  "homepage": "https://github.com/Tazkazz/tlux",
   "dependencies": {
     "chokidar": "^2.0.4",
     "luamin": "^1.0.4",
