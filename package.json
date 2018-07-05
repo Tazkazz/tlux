@@ -12,5 +12,13 @@
     "tlux"
   ],
   "author": "Tazkazz",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^2.0.4",
+    "luamin": "^1.0.4",
+    "readline-sync": "^1.4.9"
+  },
+  "bin": {
+    "tlux": "./cli.js"
+  }
 }
